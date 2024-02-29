@@ -1,4 +1,4 @@
-# Zusammenfassung Algebra
+# Zusammenfassung Mathe
 
 ## Potenzgesetze
 
