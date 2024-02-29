@@ -17,6 +17,9 @@
 
 ## Lösen Textaufgaben inklusive Darstellung
 
+Aufgabe: Ein Dreieck hat einen Umfang von 43 cm. Die Seite b ist 2 cm länger als die
+Seite a und die Seite c ist 6 cm länger als die Seite b. Wie lang ist jede Seite?
+
 1. **Definition der Variablen**: Wir definieren die Längen der Seiten des Dreiecks mit den Variablen a, b und c.
    
    - \(a\): Länge der Seite a
