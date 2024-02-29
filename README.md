@@ -1,4 +1,4 @@
-# Zusammenfassungen
+# Zusammenfassung Algebra
 
 # Potenzgesetze für Studenten
 
@@ -13,5 +13,3 @@
 5. **Potenz von Quotient**: Wenn ein Quotient von Zahlen oder Variablen potenziert wird, potenziere sowohl den Zähler als auch den Nenner und dividiere dann die Ergebnisse. Zum Beispiel, $\left(\frac{4}{2}\right)^3 = \frac{4^3}{2^3} = \frac{64}{8} = 8$.
 
 6. **Potenz von Potenz**: Wenn eine Potenz potenziert wird, multipliziere die Exponenten. Zum Beispiel, $(a^3)^2 = a^{3 \times 2} = a^6$.
-
-Diese Regeln helfen dir, Potenzen zu vereinfachen und Probleme mit Potenzen zu lösen.
