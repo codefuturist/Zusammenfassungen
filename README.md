@@ -1,6 +1,6 @@
 # Zusammenfassung Algebra
 
-# Potenzgesetze für Studenten
+## Potenzgesetze
 
 1. **Produktregel**: Wenn du zwei Potenzen mit der gleichen Basis multiplizierst, addiere einfach die Exponenten zusammen. Zum Beispiel, wenn du $a^3$ und $a^4$ multiplizierst, ergibt das $a^{3+4} = a^7$.
 
